@@ -1,0 +1,25 @@
+{
+  "name": "mean_pool_day_02",
+  "version": "1.0.0",
+  "description": "This is my introduction to Express, the framework for Node.js",
+  "main": "app.js",
+  "dependencies": {
+    "cookie-parser": "^1.4.3",
+    "ejs": "^2.6.1",
+    "express": "^4.16.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alexandra-Lee/MEAN_Pool_Day_02.git"
+  },
+  "author": "Alexandra Coder",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alexandra-Lee/MEAN_Pool_Day_02/issues"
+  },
+  "homepage": "https://github.com/Alexandra-Lee/MEAN_Pool_Day_02#readme"
+}
